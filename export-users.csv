@@ -1,0 +1,492 @@
+group_name,username,full_name,email,active,created,Last active in Confluence,Last active in Stride,Last active in Jira,Jira Service Desk,Jira Software,Confluence
+administrators,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+administrators,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+administrators,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+administrators,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+balsamiq-mockups-editors,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+confluence-admins,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+confluence-admins,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+confluence-admins,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+confluence-admins,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,back,Fizzmod Backend,back@fizzmod.com,Yes,11 Jun 2018,22 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+confluence-janis-editors,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+confluence-users,dev,Desarrollador Fizzmod,dev@fizzmod.com,Yes,6 Apr 2018,12 Jun 2018,Never logged in,18 Jun 2018,Yes,Yes,Yes
+confluence-users,back,Fizzmod Backend,back@fizzmod.com,Yes,11 Jun 2018,22 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+confluence-users,front,Fizzmod Frontend,front@fizzmod.com,Yes,11 Jun 2018,13 Jun 2018,Never logged in,13 Jun 2018,Yes,Yes,Yes
+confluence-users,pm,Fizzmod PMs,pm@fizzmod.com,Yes,11 Jun 2018,11 Jun 2018,Never logged in,11 Jun 2018,Yes,Yes,Yes
+confluence-users,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+confluence-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+confluence-users,addon_cello,Trello,cello@connect.atlassian.com,Yes,21 Sep 2017,Never logged in,Never logged in,Never logged in,No,No,Yes
+external-aurora-pe,adriana.rodriguez,Adriana Rodríguez,adriana.rodriguez@vtex.com.br,Yes,19 Apr 2017,Not active in the last 180 days,Not active in the last 180 days,21 Mar 2018,No,Yes,No
+external-aurora-pe,alan.amaya,alan.amaya,alan.amaya@cencosud.com.pe,Yes,23 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,5 Jun 2018,No,Yes,No
+external-aurora-pe,andrea.agreda,Andrea Agreda Guevara,andrea.agreda@cencosud.com.pe,Yes,15 Mar 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+external-aurora-pe,carlos.benites,Carlos Benites,carlos.benites@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,12 Jun 2018,No,Yes,No
+external-aurora-pe,eliana.espinoza,Eliana Espinoza,eliana.espinoza@cencosud.com.pe,Yes,15 Feb 2018,Never logged in,Never logged in,11 Jun 2018,No,Yes,No
+external-aurora-pe,fabio.schimidt,Fabio Schimidt,fabio.schimidt@vtex.com,Yes,31 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,13 Jun 2018,No,Yes,No
+external-aurora-pe,griselda.mariani,Griselda Mariani,griselda.mariani@cencosud.cl,Yes,23 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+external-aurora-pe,guillermo.carbonell,guillermo.carbonell,guillermo.carbonell@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,No,Yes,No
+external-aurora-pe,julian.cecchi,julian.cecchi,julian.cecchi@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Mar 2018,No,Yes,No
+external-aurora-pe,maria.roman,Maria Fernanda Román,maria.roman@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+external-aurora-pe,nestor.guio,Néstor Guío,nestor.guio@cencosud.com.pe,Yes,28 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,7 Jun 2018,No,Yes,No
+external-aurora-pe,paula.runciman,paula.runciman,paula.runciman@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+external-aurora-pe,sebastian.nadales,Sebastián Nadales,sebastian.nadales@cencosud.com,Yes,24 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,6 Jun 2018,No,Yes,No
+external-bodega-non-food,omarpascal.contreras1,Omar Contreras,omarpascal.contreras@cencosud.cl,Yes,9 Dec 2017,Never logged in,Never logged in,6 Mar 2018,No,Yes,No
+external-bodega-non-food,patricio.astudillo,Patricio Astudillo,patricio.astudillo@cencosud.cl,Yes,15 Nov 2017,15 Nov 2017,Never logged in,7 Mar 2018,No,Yes,No
+external-bodega-non-food,sandra.giusti,sandra.giusti@cencosud.cl,sandra.giusti@cencosud.cl,Yes,15 Nov 2017,Never logged in,Never logged in,26 Mar 2018,No,Yes,No
+external-bodega-non-food,silvia.estebankother,Silvia Esteban,silvia.estebankother@cencosud.cl,Yes,15 Nov 2017,Never logged in,Never logged in,29 Nov 2017,No,Yes,No
+external-ferreteria-scopazzo,constanza,constanza@ferreteriascopazzo.com.ar,constanza@ferreteriascopazzo.com.ar,Yes,12 Sep 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+external-jackie,e_dguzman,Daliamny Guzman Hernandez,e_dguzman@smu.cl,No,30 Aug 2017,Never logged in,Never logged in,20 Sep 2017,No,No,No
+external-jackie,Denisse Celery,dcelery@smu.cl,dcelery@smu.cl,Yes,13 Mar 2018,Never logged in,Never logged in,20 Jun 2018,Yes,Yes,No
+external-jackie,elias,Elias Vila,elias@elocc.ag,Yes,17 May 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+external-jackie,francis.palma,Francis Daniela Palma Cornejo,francis.palma@tutorial.cl,No,24 Aug 2017,Never logged in,Never logged in,14 Nov 2017,No,No,No
+external-jackie,e_lstuardo,Luis Alberto Stuardo Riffo,e_lstuardo@smu.cl,Yes,30 Aug 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+external-jackie,maria.carmi,Mabel Carmi,maria.carmi@telemercados.cl,Yes,9 Jun 2017,Never logged in,Never logged in,7 Jun 2018,Yes,Yes,No
+external-jackie,mparedesa,Marcelo Paredes,mparedesa@smu.cl,Yes,29 Jun 2017,Never logged in,Never logged in,15 Jun 2018,Yes,Yes,No
+external-jackie,nnuneza,Nora Nuñez,nnuneza@smu.cl,Yes,20 Sep 2017,Never logged in,Never logged in,16 Jun 2018,Yes,Yes,No
+external-jackie,omar.demaria,Omar Demaria,omar.demaria@tutorial.cl,Yes,15 Jun 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+external-jackie,rcaceres,Rodrigo Caceres,rcaceres@smu.cl,Yes,30 Aug 2017,Never logged in,Never logged in,22 May 2018,Yes,Yes,No
+external-jackie,samunategui,Sebastian Amunategui,sebastian.amunategui@telemercados.cl,Yes,30 May 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+external-janis-logistics,alba,Alba Portillo,alba@eudaimonia.com.ar,Yes,19 Dec 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+external-janis-logistics,dtorres,Daniel Torres,dtorres@eudaimonia.com.ar,Yes,5 Mar 2018,Never logged in,Never logged in,27 Apr 2018,No,Yes,No
+external-janis-logistics,emilsys,Emilsys Zanella,emilsys@eudaimonia.com.ar,Yes,22 Nov 2017,Never logged in,Never logged in,6 Mar 2018,No,Yes,No
+external-janis-logistics,vidueiro,Federico Vidueiro,vidueiro@eudaimonia.com.ar,Yes,16 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+external-janis-logistics,faranes,Francisco Aranés,faranes@eudaimonia.com.ar,Yes,29 Jan 2018,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+external-janis-logistics,falonzo,Franco Alonzo,falonzo@eudaimonia.com.ar,Yes,7 Dec 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+external-janis-logistics,agustinm,Guche Dr.,agustinm@eudaimonia.com.ar,Yes,16 Aug 2017,Never logged in,Never logged in,26 Feb 2018,No,Yes,No
+external-janis-logistics,masuello,Leonel Masuello,masuello@eudaimonia.com.ar,Yes,11 Oct 2017,Never logged in,Never logged in,18 Jun 2018,No,Yes,No
+external-janis-logistics,slehyder,Slehyder Martinez,slehyder@eudaimonia.com.ar,Yes,6 Mar 2018,Never logged in,Never logged in,20 Jun 2018,No,Yes,No
+external-jumbo-chile,danilo.delgadoredlich,Danilo Delgado,danilo.delgadoredlich@externos-cl.cencosud.com,Yes,5 Apr 2018,Never logged in,Never logged in,12 Jun 2018,No,Yes,No
+external-jumbo-chile,guillermo.rojasvillarroel,guillermo.rojasvillarroel,guillermo.rojasvillarroel@cencosud.cl,Yes,5 Apr 2018,Never logged in,Never logged in,12 Jun 2018,No,No,No
+external-jumbo-chile,juliofrancisco.castilloosorio,juliofrancisco.castilloosorio@cencosud.cl,juliofrancisco.castilloosorio@cencosud.cl,Yes,5 Apr 2018,Never logged in,Never logged in,8 May 2018,Yes,Yes,No
+external-jumbo-chile,paola.bawarshiyanine,Paola Bawarshi,paola.bawarshiyanine@cencosud.cl,Yes,15 Feb 2018,Never logged in,Never logged in,28 Mar 2018,No,Yes,No
+external-jumbo-chile,raul.valdesperez,Raul Felipe Valdes,raul.valdesperez@cencosud.cl,Yes,15 Feb 2018,Never logged in,Never logged in,25 Mar 2018,No,Yes,No
+external-jumbo-chile,sergio.sanjuanbustamante,Sergio San Juan,sergio.sanjuanbustamante@cencosud.cl,Yes,27 Mar 2018,Never logged in,Never logged in,10 May 2018,Yes,Yes,No
+external-jumbo-col,adriana.rodriguez,Adriana Rodríguez,adriana.rodriguez@vtex.com.br,Yes,19 Apr 2017,Not active in the last 180 days,Not active in the last 180 days,21 Mar 2018,No,Yes,No
+external-jumbo-col,JoseLuis.Clavijo,JoseLuis.Clavijo@cencosud.com.co,joseluis.clavijo@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,9 Jun 2018,No,Yes,No
+external-jumbo-colombia,anyisahidayi.gamba,anyisahidayi.gamba@cencosud.com.co,anyisahidayi.gamba@cencosud.com.co,No,14 Aug 2017,Never logged in,Never logged in,Never logged in,No,No,No
+external-jumbo-colombia,claudia.rodriguez,Claudia Janneth Rodríguez Díaz,claudia.rodriguez@cencosud.com.co,Yes,14 Aug 2017,Never logged in,Never logged in,16 May 2018,No,Yes,No
+external-jumbo-colombia,jorge.ramirez,jorge.ramirez@cencosud.com.co,jorge.ramirez@cencosud.com.co,Yes,8 Sep 2017,Never logged in,Never logged in,22 Mar 2018,Yes,Yes,No
+external-jumbo-colombia,Karol.Mora,Karol.Mora@cencosud.com.co,Karol.Mora@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,29 Jan 2018,No,Yes,No
+external-jumbo-colombia,William.Barbosa,William.Barbosa@cencosud.com.co,William.Barbosa@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,21 Dec 2017,No,Yes,No
+external-jumbo-colombia,zenia.argumedo,Zenia Argumedo,zenia.argumedo@cencosud.com.co,Yes,5 Sep 2017,Never logged in,Never logged in,29 May 2018,Yes,Yes,No
+external-maxi-hogar,emmanuel.trejo,Emmanuel Trejo,emmanuel.trejo@maxihogar.com.ar,Yes,6 Jul 2017,Never logged in,Never logged in,22 Mar 2018,No,Yes,No
+external-multicenter,palpizar,Pablo Alpizar,palpizar@multicenter.com.bo,Yes,22 Feb 2018,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+external-qa-jumbo-chile,marioalejandro.barrera,Mario Barrera,marioalejandro.barrera@externos-cl.cencosud.com,Yes,19 Dec 2017,Never logged in,Never logged in,25 May 2018,No,Yes,No
+external-rosen,carolina.tapia,Carolina Tapia,carolina.tapia@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+external-rosen,claudio.gonzalez,Claudio González,claudio.gonzalez@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+external-webapp,belen,Belén Mosquera,belen@fizzmod.com,Yes,6 Jun 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+external-webapp,luciano,Luciano Costilla,luciano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+external-whirlpool,tomy_murati,Tommy MURATI,tomy_murati@whirlpool.com,Yes,27 Feb 2018,Never logged in,Never logged in,17 May 2018,No,Yes,No
+ext-mercadolibre,Matias.Olivera,Matias Olivera,matias.olivera@walmart.com,Yes,11 May 2018,Never logged in,Never logged in,14 Jun 2018,No,Yes,No
+fizzmod-back,back,Fizzmod Backend,back@fizzmod.com,Yes,11 Jun 2018,22 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+fizzmod-product-owner,ariel,Ariel,ariel@fizzmod.com,Yes,5 Mar 2018,21 May 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+fizzmod-product-owner,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-product-owner,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+fizzmod-product-owner,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-product-owner,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-product-owner,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-product-owner,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+fizzmod-product-owner,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-product-owner,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-scrum-team,adrian,Adrián Locurcio,adrian@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,28 May 2018,Yes,Yes,No
+fizzmod-scrum-team,agustin,agustin,agustin@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,agustina,Agustina Safe,agustina@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,alejandro,Alejandro Gonzalez,alejandro@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,alejandro.lariccia,Alejandro Lariccia,alejandro.lariccia@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-scrum-team,argenis,Argenis Hernandez,argenis@fizzmod.com,Yes,Before 11 Feb 2017,19 Apr 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,ariel,Ariel,ariel@fizzmod.com,Yes,5 Mar 2018,21 May 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,belen,Belén Mosquera,belen@fizzmod.com,Yes,6 Jun 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+fizzmod-scrum-team,carolina,Carolina,carolina@fizzmod.com,Yes,2 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-scrum-team,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,gabriel,Gabriel Barbera,gabriel@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+fizzmod-scrum-team,gonzalo.fernandez,Gonzalo Fernández,gonzalo.fernandez@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,8 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,gonzalo,Gonzalo Isola,gonzalo@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-scrum-team,jeronimo.coello,Jerónimo Coello,jeronimo.coello@fizzmod.com,Yes,2 Aug 2017,1 Jun 2018,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-scrum-team,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+fizzmod-scrum-team,johan.palacios,Johan Palacios,johan.palacios@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,18 Sep 2017,No,Yes,No
+fizzmod-scrum-team,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-scrum-team,juan.elfers,Juan Martín Elfers,juan.elfers@fizzmod.com,Yes,10 May 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+fizzmod-scrum-team,juan.musto,Juan Musto,juan.musto@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,14 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,lourdes.mendoza,Lourdes Mendoza,lourdes.mendoza@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,luciano,Luciano Costilla,luciano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-scrum-team,manuel,Manuel Vilche,manuel@fizzmod.com,Yes,Before 11 Feb 2017,22 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,rrhh,mariano fizzmodrrhh,rrhh@fizzmod.com,Yes,14 Mar 2018,Never logged in,Never logged in,12 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,martin.bello@fizzmod.com,Martín Bello,martin.bello@fizzmod.com,Yes,6 Feb 2018,Never logged in,Never logged in,19 Mar 2018,Yes,Yes,No
+fizzmod-scrum-team,maximiliano,Maximiliano,maximiliano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,nicolas.diz,Nicolás Diz,nicolas.diz@fizzmod.com,Yes,5 Apr 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,rodrigo,Rodrigo Chetto,rodrigo@fizzmod.com,Yes,18 Sep 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,santiago.pernigotti,Santiago Pernigotti ,santiago@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-scrum-team,support,support@fizzmod.com,support@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+fizzmod-scrum-team,victor.paz,Victor Paz Friaz,victor.paz@fizzmod.com,Yes,19 Jun 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-site,agustin,agustin,agustin@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-site,belen,Belén Mosquera,belen@fizzmod.com,Yes,6 Jun 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+fizzmod-site,carolina,Carolina,carolina@fizzmod.com,Yes,2 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-site,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+fizzmod-site,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-support,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-support,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-support,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-support,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-support,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-support,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+fizzmod-support,gonzalo,Gonzalo Isola,gonzalo@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-support,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+fizzmod-support,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-support,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-support,juan.elfers,Juan Martín Elfers,juan.elfers@fizzmod.com,Yes,10 May 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+fizzmod-support,juan.musto,Juan Musto,juan.musto@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,14 Jun 2018,Yes,Yes,No
+fizzmod-support,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-support,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-support,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+fizzmod-support,maximiliano,Maximiliano,maximiliano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-support,santiago.pernigotti,Santiago Pernigotti ,santiago@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-users,adrian,Adrián Locurcio,adrian@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,28 May 2018,Yes,Yes,No
+fizzmod-users,agustina,Agustina Safe,agustina@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-users,alejandro,Alejandro Gonzalez,alejandro@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-users,alejandro.lariccia,Alejandro Lariccia,alejandro.lariccia@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-users,argenis,Argenis Hernandez,argenis@fizzmod.com,Yes,Before 11 Feb 2017,19 Apr 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-users,belen,Belén Mosquera,belen@fizzmod.com,Yes,6 Jun 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+fizzmod-users,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-users,carolina,Carolina,carolina@fizzmod.com,Yes,2 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-users,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+fizzmod-users,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-users,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-users,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+fizzmod-users,fernando.colom,Fernando Colom,fernando.colom@fizzmod.com,Yes,19 Feb 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-users,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+fizzmod-users,gabriel,Gabriel Barbera,gabriel@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+fizzmod-users,gonzalo.fernandez,Gonzalo Fernández,gonzalo.fernandez@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,8 Jun 2018,Yes,Yes,No
+fizzmod-users,gonzalo,Gonzalo Isola,gonzalo@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-users,jeronimo.coello,Jerónimo Coello,jeronimo.coello@fizzmod.com,Yes,2 Aug 2017,1 Jun 2018,Never logged in,21 Jun 2018,No,Yes,No
+fizzmod-users,johan.palacios,Johan Palacios,johan.palacios@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,18 Sep 2017,No,Yes,No
+fizzmod-users,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-users,juan.elfers,Juan Martín Elfers,juan.elfers@fizzmod.com,Yes,10 May 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+fizzmod-users,juan.musto,Juan Musto,juan.musto@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,14 Jun 2018,Yes,Yes,No
+fizzmod-users,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+fizzmod-users,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+fizzmod-users,lourdes.mendoza,Lourdes Mendoza,lourdes.mendoza@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+fizzmod-users,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+fizzmod-users,nicolas.diz,Nicolás Diz,nicolas.diz@fizzmod.com,Yes,5 Apr 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+fizzmod-users,rodrigo,Rodrigo Chetto,rodrigo@fizzmod.com,Yes,18 Sep 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jackie-users,fabio.schimidt,Fabio Schimidt,fabio.schimidt@vtex.com,Yes,31 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,13 Jun 2018,No,Yes,No
+jackie-users,jose.diaz,Jose Alejandro Diaz,jose.diaz@vtex.com.br,Yes,15 Jan 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jackie-users,thiago.alipio,Thiago Alipio,thiago.alipio@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+janis-reengineering-users,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+janis-reengineering-users,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+janis-reengineering-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+janis-reengineering-users,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+jira-administrators,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-administrators,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+jira-administrators,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jira-administrators,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-administrators,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-administrators,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+jira-administrators,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,anavarrolazo,Adolfo Navarro,anavarrolazo@gmail.com,Yes,17 May 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,adrian,Adrián Locurcio,adrian@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,28 May 2018,Yes,Yes,No
+jira-servicedesk-users,agustin,agustin,agustin@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,agustina,Agustina Safe,agustina@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,Alan.Leal,Alan.Leal@sony.com,alan.leal@sony.com,No,3 Nov 2017,Never logged in,Never logged in,Never logged in,No,No,No
+jira-servicedesk-users,aldo.viacava,Aldo Viacava,aldo.viacava@rosen.cl,Yes,21 Nov 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,alejandro,Alejandro Gonzalez,alejandro@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,argenis,Argenis Hernandez,argenis@fizzmod.com,Yes,Before 11 Feb 2017,19 Apr 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,ariel,Ariel,ariel@fizzmod.com,Yes,5 Mar 2018,21 May 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,carolina.tapia,Carolina Tapia,carolina.tapia@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,carolina.vargasbello,carolina.vargasbello@cencosud.cl,carolina.vargasbello@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,claudio.gonzalez,Claudio González,claudio.gonzalez@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,e_dguzman,Daliamny Guzman Hernandez,e_dguzman@smu.cl,No,30 Aug 2017,Never logged in,Never logged in,20 Sep 2017,No,No,No
+jira-servicedesk-users,daniela.leon,daniela.leon@jumbo.cl,daniela.leon@jumbo.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,Denisse Celery,dcelery@smu.cl,dcelery@smu.cl,Yes,13 Mar 2018,Never logged in,Never logged in,20 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,dev,Desarrollador Fizzmod,dev@fizzmod.com,Yes,6 Apr 2018,12 Jun 2018,Never logged in,18 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,diego.angel,Diego Ángel Londoño,diego.angel@fizzmod.com,Yes,12 Jun 2018,12 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,elias,Elias Vila,elias@elocc.ag,Yes,17 May 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,ernesto.fajardo,ernesto.fajardo@cencosud.cl,ernesto.fajardo@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,fernando.reygaete,fernando.reygaete@cencosud.cl,fernando.reygaete@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,back,Fizzmod Backend,back@fizzmod.com,Yes,11 Jun 2018,22 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,front,Fizzmod Frontend,front@fizzmod.com,Yes,11 Jun 2018,13 Jun 2018,Never logged in,13 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,pm,Fizzmod PMs,pm@fizzmod.com,Yes,11 Jun 2018,11 Jun 2018,Never logged in,11 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,francisca.oreilly,Francisca,francisca.oreilly@rosen.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,francisco.labarcafernandez,francisco.labarcafernandez@cencosud.cl,francisco.labarcafernandez@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,francisco.leivadiaz,francisco.leivadiaz@cencosud.cl,francisco.leivadiaz@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,francis.palma,Francis Daniela Palma Cornejo,francis.palma@tutorial.cl,No,24 Aug 2017,Never logged in,Never logged in,14 Nov 2017,No,No,No
+jira-servicedesk-users,franco.tagini,Franco Tagini Cox,franco.tagini@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,gonzalo.fernandez,Gonzalo Fernández,gonzalo.fernandez@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,8 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,herman.rosales,Herman Rosales,herman.rosales@rosen.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,hernan.jara,Hernán Jara,hernan.jara@rosen.cl,Yes,24 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,addon_com.invisionapp.integration.jira,InVision for Jira,com.invisionapp.integration.jira@connect.atlassian.com,Yes,27 Sep 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,ismael.colorado,Ismael Colorado,ismael.colorado@cencosud.cl,Yes,17 May 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,javiera.bustosgil,javiera.bustosgil@cencosud.cl,javiera.bustosgil@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,javiera.novoa,javiera.novoa@cencosud.cl,javiera.novoa@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,addon_com.atlassian.jira.chat,Jira App for Chat,com.atlassian.jira.chat@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,addon_jira-workplace-integration,Jira Cloud for Workplace,jira-workplace-integration@connect.atlassian.com,Yes,28 Apr 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,addon_com.atlassian.servicedesk.embedded,Jira Service Desk Widget,com.atlassian.servicedesk.embedded@connect.atlassian.com,Yes,7 Sep 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,jorge.catalan,jorge.catalan@cencosud.cl,jorge.catalan@cencosud.cl,Yes,25 Sep 2017,Never logged in,Never logged in,31 Jan 2018,Yes,Yes,No
+jira-servicedesk-users,jorge.ramirez,jorge.ramirez@cencosud.com.co,jorge.ramirez@cencosud.com.co,Yes,8 Sep 2017,Never logged in,Never logged in,22 Mar 2018,Yes,Yes,No
+jira-servicedesk-users,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,juan.musto,Juan Musto,juan.musto@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,14 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,juliofrancisco.castilloosorio,juliofrancisco.castilloosorio@cencosud.cl,juliofrancisco.castilloosorio@cencosud.cl,Yes,5 Apr 2018,Never logged in,Never logged in,8 May 2018,Yes,Yes,No
+jira-servicedesk-users,leandro.falcone,Leandro Falcone,leandro.falcone@rosen-corp.com,Yes,22 Jan 2018,Never logged in,Never logged in,10 Apr 2018,Yes,Yes,No
+jira-servicedesk-users,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,leonardo.alegriasolar@externos-cl.cencosud.com,Leonardo Alegría Solar,leonardo.alegriasolar@externos-cl.cencosud.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,info,Lisandro Aubert,info@fizzmod.com,Yes,8 Jun 2018,8 Jun 2018,Never logged in,8 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+jira-servicedesk-users,lorena.valenzuela,lorena.valenzuela@cencosud.cl,lorena.valenzuela@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,louis,Louis Perdomo,louis@eudaimonia.com.ar,Yes,20 Sep 2017,Never logged in,Never logged in,13 Dec 2017,Yes,Yes,No
+jira-servicedesk-users,lourdes.mendoza,Lourdes Mendoza,lourdes.mendoza@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,e_lstuardo,Luis Alberto Stuardo Riffo,e_lstuardo@smu.cl,Yes,30 Aug 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,maria.carmi,Mabel Carmi,maria.carmi@telemercados.cl,Yes,9 Jun 2017,Never logged in,Never logged in,7 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,manuel,Manuel Vilche,manuel@fizzmod.com,Yes,Before 11 Feb 2017,22 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,mparedesa,Marcelo Paredes,mparedesa@smu.cl,Yes,29 Jun 2017,Never logged in,Never logged in,15 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,rrhh,mariano fizzmodrrhh,rrhh@fizzmod.com,Yes,14 Mar 2018,Never logged in,Never logged in,12 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,martin.bello@fizzmod.com,Martín Bello,martin.bello@fizzmod.com,Yes,6 Feb 2018,Never logged in,Never logged in,19 Mar 2018,Yes,Yes,No
+jira-servicedesk-users,maximiliano,Maximiliano,maximiliano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,nicolas.diz,Nicolás Diz,nicolas.diz@fizzmod.com,Yes,5 Apr 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,nnuneza,Nora Nuñez,nnuneza@smu.cl,Yes,20 Sep 2017,Never logged in,Never logged in,16 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,omar.demaria,Omar Demaria,omar.demaria@tutorial.cl,Yes,15 Jun 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,paula.quintard,Paula Quintard,paula.quintard@rosen.cl,Yes,23 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,pilar.ariztia,pilar.ariztia@cencosud.cl,pilar.ariztia@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,rodolfo.troncoso,Rodolfo Troncoso,rodolfo.troncoso@vtex.com,No,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,7 Dec 2017,No,No,No
+jira-servicedesk-users,rcaceres,Rodrigo Caceres,rcaceres@smu.cl,Yes,30 Aug 2017,Never logged in,Never logged in,22 May 2018,Yes,Yes,No
+jira-servicedesk-users,rodrigo,Rodrigo Chetto,rodrigo@fizzmod.com,Yes,18 Sep 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,santiago.pernigotti,Santiago Pernigotti ,santiago@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,samunategui,Sebastian Amunategui,sebastian.amunategui@telemercados.cl,Yes,30 May 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,sergio.sanjuanbustamante,Sergio San Juan,sergio.sanjuanbustamante@cencosud.cl,Yes,27 Mar 2018,Never logged in,Never logged in,10 May 2018,Yes,Yes,No
+jira-servicedesk-users,addon_sd-local-user-addon,Service Desk Local User Support Addon,sd-local-user-addon@connect.atlassian.com,Yes,31 Jul 2017,Never logged in,Never logged in,Never logged in,Yes,No,No
+jira-servicedesk-users,addon_jira-sketch-integration,Sketch,jira-sketch-integration@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,addon_jira-slack-integration,Slack,jira-slack-integration@connect.atlassian.com,Yes,29 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,Not active in the last 180 days,Yes,Yes,No
+jira-servicedesk-users,support,support@fizzmod.com,support@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,addon_jira-trello-integration,Trello,jira-trello-integration@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-servicedesk-users,valeria.caglieri,Valeria Caglieri,valeria.caglieri@rosen.cl,No,20 Jun 2017,Never logged in,Never logged in,13 Jun 2018,No,No,No
+jira-servicedesk-users,veronica.cordova,Veronica Cordova,veronica.cordova@rosen.cl,Yes,23 May 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-servicedesk-users,infrawalmart,WTS ARGENTINA,infrawalmart@fizzmod.com,Yes,6 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,No,No
+jira-servicedesk-users,zenia.argumedo,Zenia Argumedo,zenia.argumedo@cencosud.com.co,Yes,5 Sep 2017,Never logged in,Never logged in,29 May 2018,Yes,Yes,No
+jira-software-users,adrian,Adrián Locurcio,adrian@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,28 May 2018,Yes,Yes,No
+jira-software-users,agustin,agustin,agustin@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,agustina,Agustina Safe,agustina@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,Alan.Leal,Alan.Leal@sony.com,alan.leal@sony.com,No,3 Nov 2017,Never logged in,Never logged in,Never logged in,No,No,No
+jira-software-users,alba,Alba Portillo,alba@eudaimonia.com.ar,Yes,19 Dec 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+jira-software-users,aldo.viacava,Aldo Viacava,aldo.viacava@rosen.cl,Yes,21 Nov 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-software-users,Alejandro.Alessio,Alejandro Alessio,alejandro.alessio@walmart.com,Yes,4 May 2018,Never logged in,Never logged in,11 Jun 2018,No,Yes,No
+jira-software-users,alejandro,Alejandro Gonzalez,alejandro@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,alejandro.lariccia,Alejandro Lariccia,alejandro.lariccia@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,alexander.perez,Alex Pérez Ortuño,alexander@fizzmod.com,No,5 May 2017,Not active in the last 180 days,Not active in the last 180 days,30 Nov 2017,No,No,No
+jira-software-users,andrea.agreda,Andrea Agreda Guevara,andrea.agreda@cencosud.com.pe,Yes,15 Mar 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,anyisahidayi.gamba,anyisahidayi.gamba@cencosud.com.co,anyisahidayi.gamba@cencosud.com.co,No,14 Aug 2017,Never logged in,Never logged in,Never logged in,No,No,No
+jira-software-users,argenis,Argenis Hernandez,argenis@fizzmod.com,Yes,Before 11 Feb 2017,19 Apr 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,ariel,Ariel,ariel@fizzmod.com,Yes,5 Mar 2018,21 May 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-software-users,belen,Belén Mosquera,belen@fizzmod.com,Yes,6 Jun 2017,Never logged in,Never logged in,19 Jun 2018,No,Yes,No
+jira-software-users,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+jira-software-users,carolina,Carolina,carolina@fizzmod.com,Yes,2 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jira-software-users,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jira-software-users,carolina.tapia,Carolina Tapia,carolina.tapia@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+jira-software-users,carolina.vargasbello,carolina.vargasbello@cencosud.cl,carolina.vargasbello@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,claudia.rodriguez,Claudia Janneth Rodríguez Díaz,claudia.rodriguez@cencosud.com.co,Yes,14 Aug 2017,Never logged in,Never logged in,16 May 2018,No,Yes,No
+jira-software-users,claudio.gonzalez,Claudio González,claudio.gonzalez@rosen.cl,Yes,19 Jun 2018,Never logged in,Never logged in,19 Jun 2018,Yes,Yes,No
+jira-software-users,constanza,constanza@ferreteriascopazzo.com.ar,constanza@ferreteriascopazzo.com.ar,Yes,12 Sep 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,daniela.leon,daniela.leon@jumbo.cl,daniela.leon@jumbo.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,dtorres,Daniel Torres,dtorres@eudaimonia.com.ar,Yes,5 Mar 2018,Never logged in,Never logged in,27 Apr 2018,No,Yes,No
+jira-software-users,danilo.delgadoredlich,Danilo Delgado,danilo.delgadoredlich@externos-cl.cencosud.com,Yes,5 Apr 2018,Never logged in,Never logged in,12 Jun 2018,No,Yes,No
+jira-software-users,dev,Desarrollador Fizzmod,dev@fizzmod.com,Yes,6 Apr 2018,12 Jun 2018,Never logged in,18 Jun 2018,Yes,Yes,Yes
+jira-software-users,diego.angel,Diego Ángel Londoño,diego.angel@fizzmod.com,Yes,12 Jun 2018,12 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-software-users,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,efeler,efeler@sportline.com.ar,efeler@sportline.com.ar,Yes,23 May 2018,Never logged in,Never logged in,Never logged in,No,Yes,No
+jira-software-users,eliana.espinoza,Eliana Espinoza,eliana.espinoza@cencosud.com.pe,Yes,15 Feb 2018,Never logged in,Never logged in,11 Jun 2018,No,Yes,No
+jira-software-users,emilsys,Emilsys Zanella,emilsys@eudaimonia.com.ar,Yes,22 Nov 2017,Never logged in,Never logged in,6 Mar 2018,No,Yes,No
+jira-software-users,emmanuel.trejo,Emmanuel Trejo,emmanuel.trejo@maxihogar.com.ar,Yes,6 Jul 2017,Never logged in,Never logged in,22 Mar 2018,No,Yes,No
+jira-software-users,ernesto.fajardo,ernesto.fajardo@cencosud.cl,ernesto.fajardo@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,federico.fizzmod,Federico Potenza,federico@fizzmod.com,Yes,21 Sep 2016,7 May 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,vidueiro,Federico Vidueiro,vidueiro@eudaimonia.com.ar,Yes,16 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,fernando.colom,Fernando Colom,fernando.colom@fizzmod.com,Yes,19 Feb 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,fernando.reygaete,fernando.reygaete@cencosud.cl,fernando.reygaete@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,back,Fizzmod Backend,back@fizzmod.com,Yes,11 Jun 2018,22 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+jira-software-users,front,Fizzmod Frontend,front@fizzmod.com,Yes,11 Jun 2018,13 Jun 2018,Never logged in,13 Jun 2018,Yes,Yes,Yes
+jira-software-users,pm,Fizzmod PMs,pm@fizzmod.com,Yes,11 Jun 2018,11 Jun 2018,Never logged in,11 Jun 2018,Yes,Yes,Yes
+jira-software-users,francisca.oreilly,Francisca,francisca.oreilly@rosen.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,francisca.munoz,Francisca Munoz,francisca.munoz@cencosud.cl,Yes,22 Dec 2017,Never logged in,Never logged in,15 Jun 2018,No,Yes,No
+jira-software-users,faranes,Francisco Aranés,faranes@eudaimonia.com.ar,Yes,29 Jan 2018,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,francisco.labarcafernandez,francisco.labarcafernandez@cencosud.cl,francisco.labarcafernandez@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,francisco.leivadiaz,francisco.leivadiaz@cencosud.cl,francisco.leivadiaz@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+jira-software-users,falonzo,Franco Alonzo,falonzo@eudaimonia.com.ar,Yes,7 Dec 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,franco,Franco Serenellini,franco@e-cruce.com,Yes,24 Nov 2017,Never logged in,Never logged in,24 Nov 2017,No,Yes,No
+jira-software-users,franco.tagini,Franco Tagini Cox,franco.tagini@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,gabriel,Gabriel Barbera,gabriel@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,gonzalo.fernandez,Gonzalo Fernández,gonzalo.fernandez@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,8 Jun 2018,Yes,Yes,No
+jira-software-users,gonzalo,Gonzalo Isola,gonzalo@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,agustinm,Guche Dr.,agustinm@eudaimonia.com.ar,Yes,16 Aug 2017,Never logged in,Never logged in,26 Feb 2018,No,Yes,No
+jira-software-users,herman.rosales,Herman Rosales,herman.rosales@rosen.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,hernan.jara,Hernán Jara,hernan.jara@rosen.cl,Yes,24 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,addon_com.invisionapp.integration.jira,InVision for Jira,com.invisionapp.integration.jira@connect.atlassian.com,Yes,27 Sep 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,javiera.bustosgil,javiera.bustosgil@cencosud.cl,javiera.bustosgil@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,javiera.novoa,javiera.novoa@cencosud.cl,javiera.novoa@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,jeronimo.coello,Jerónimo Coello,jeronimo.coello@fizzmod.com,Yes,2 Aug 2017,1 Jun 2018,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,jferrada,jferrada@unimarc.cl,jferrada@unimarc.cl,Yes,10 Jan 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,addon_com.atlassian.jira.chat,Jira App for Chat,com.atlassian.jira.chat@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,addon_jira-workplace-integration,Jira Cloud for Workplace,jira-workplace-integration@connect.atlassian.com,Yes,28 Apr 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,addon_com.atlassian.servicedesk.embedded,Jira Service Desk Widget,com.atlassian.servicedesk.embedded@connect.atlassian.com,Yes,7 Sep 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+jira-software-users,joaquin.oubel,joaquin.oubel,joaquin.oubel@cencosud.com.ar,Yes,15 Dec 2017,Never logged in,Never logged in,15 Dec 2017,No,Yes,No
+jira-software-users,johan.palacios,Johan Palacios,johan.palacios@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,18 Sep 2017,No,Yes,No
+jira-software-users,jorge.catalan,jorge.catalan@cencosud.cl,jorge.catalan@cencosud.cl,Yes,25 Sep 2017,Never logged in,Never logged in,31 Jan 2018,Yes,Yes,No
+jira-software-users,jorge.ramirez,jorge.ramirez@cencosud.com.co,jorge.ramirez@cencosud.com.co,Yes,8 Sep 2017,Never logged in,Never logged in,22 Mar 2018,Yes,Yes,No
+jira-software-users,jose.diaz,Jose Alejandro Diaz,jose.diaz@vtex.com.br,Yes,15 Jan 2018,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,JoseLuis.Clavijo,JoseLuis.Clavijo@cencosud.com.co,joseluis.clavijo@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,9 Jun 2018,No,Yes,No
+jira-software-users,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+jira-software-users,juan.elfers,Juan Martín Elfers,juan.elfers@fizzmod.com,Yes,10 May 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+jira-software-users,juan.musto,Juan Musto,juan.musto@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,14 Jun 2018,Yes,Yes,No
+jira-software-users,juliofrancisco.castilloosorio,juliofrancisco.castilloosorio@cencosud.cl,juliofrancisco.castilloosorio@cencosud.cl,Yes,5 Apr 2018,Never logged in,Never logged in,8 May 2018,Yes,Yes,No
+jira-software-users,Karol.Mora,Karol.Mora@cencosud.com.co,Karol.Mora@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,29 Jan 2018,No,Yes,No
+jira-software-users,leandro.falcone,Leandro Falcone,leandro.falcone@rosen-corp.com,Yes,22 Jan 2018,Never logged in,Never logged in,10 Apr 2018,Yes,Yes,No
+jira-software-users,leonardo,Leo.Gambino,leonardo@fizzmod.com,Yes,Before 11 Feb 2017,4 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,masuello,Leonel Masuello,masuello@eudaimonia.com.ar,Yes,11 Oct 2017,Never logged in,Never logged in,18 Jun 2018,No,Yes,No
+jira-software-users,info,Lisandro Aubert,info@fizzmod.com,Yes,8 Jun 2018,8 Jun 2018,Never logged in,8 Jun 2018,Yes,Yes,No
+jira-software-users,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+jira-software-users,lorena.valenzuela,lorena.valenzuela@cencosud.cl,lorena.valenzuela@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,louis,Louis Perdomo,louis@eudaimonia.com.ar,Yes,20 Sep 2017,Never logged in,Never logged in,13 Dec 2017,Yes,Yes,No
+jira-software-users,lourdes.mendoza,Lourdes Mendoza,lourdes.mendoza@fizzmod.com,Yes,6 Dec 2017,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-software-users,luciano,Luciano Costilla,luciano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jira-software-users,manuel,Manuel Vilche,manuel@fizzmod.com,Yes,Before 11 Feb 2017,22 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+jira-software-users,rrhh,mariano fizzmodrrhh,rrhh@fizzmod.com,Yes,14 Mar 2018,Never logged in,Never logged in,12 Jun 2018,Yes,Yes,No
+jira-software-users,marioalejandro.barrera,Mario Barrera,marioalejandro.barrera@externos-cl.cencosud.com,Yes,19 Dec 2017,Never logged in,Never logged in,25 May 2018,No,Yes,No
+jira-software-users,martin.bello@fizzmod.com,Martín Bello,martin.bello@fizzmod.com,Yes,6 Feb 2018,Never logged in,Never logged in,19 Mar 2018,Yes,Yes,No
+jira-software-users,mcastro,Martín Castro,mcastro@sportline.com.ar,Yes,23 May 2018,Never logged in,Never logged in,23 May 2018,No,Yes,No
+jira-software-users,Matias.Olivera,Matias Olivera,matias.olivera@walmart.com,Yes,11 May 2018,Never logged in,Never logged in,14 Jun 2018,No,Yes,No
+jira-software-users,maximiliano,Maximiliano,maximiliano@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jira-software-users,miguelandres.tapianunez,Miguel Tapia,miguelandres.tapianunez@cencosud.com.pe,Yes,20 Jun 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,nicolas.diz,Nicolás Diz,nicolas.diz@fizzmod.com,Yes,5 Apr 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-software-users,nnuneza,Nora Nuñez,nnuneza@smu.cl,Yes,20 Sep 2017,Never logged in,Never logged in,16 Jun 2018,Yes,Yes,No
+jira-software-users,omarpascal.contreras1,Omar Contreras,omarpascal.contreras@cencosud.cl,Yes,9 Dec 2017,Never logged in,Never logged in,6 Mar 2018,No,Yes,No
+jira-software-users,omar.demaria,Omar Demaria,omar.demaria@tutorial.cl,Yes,15 Jun 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jira-software-users,palpizar,Pablo Alpizar,palpizar@multicenter.com.bo,Yes,22 Feb 2018,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jira-software-users,paola.bawarshiyanine,Paola Bawarshi,paola.bawarshiyanine@cencosud.cl,Yes,15 Feb 2018,Never logged in,Never logged in,28 Mar 2018,No,Yes,No
+jira-software-users,patricio.astudillo,Patricio Astudillo,patricio.astudillo@cencosud.cl,Yes,15 Nov 2017,15 Nov 2017,Never logged in,7 Mar 2018,No,Yes,No
+jira-software-users,paula.quintard,Paula Quintard,paula.quintard@rosen.cl,Yes,23 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,Yes,Yes,No
+jira-software-users,pilar.ariztia,pilar.ariztia@cencosud.cl,pilar.ariztia@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,priscilla.perez,Priscilla Pérez,priscilla.perez@externos-cl.cencosud.com,Yes,22 Dec 2017,Never logged in,Never logged in,13 Mar 2018,No,Yes,No
+jira-software-users,raul.valdesperez,Raul Felipe Valdes,raul.valdesperez@cencosud.cl,Yes,15 Feb 2018,Never logged in,Never logged in,25 Mar 2018,No,Yes,No
+jira-software-users,rodrigo,Rodrigo Chetto,rodrigo@fizzmod.com,Yes,18 Sep 2017,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-software-users,sandra.giusti,sandra.giusti@cencosud.cl,sandra.giusti@cencosud.cl,Yes,15 Nov 2017,Never logged in,Never logged in,26 Mar 2018,No,Yes,No
+jira-software-users,santiago.pernigotti,Santiago Pernigotti ,santiago@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+jira-software-users,sergio.sanjuanbustamante,Sergio San Juan,sergio.sanjuanbustamante@cencosud.cl,Yes,27 Mar 2018,Never logged in,Never logged in,10 May 2018,Yes,Yes,No
+jira-software-users,silvia.estebankother,Silvia Esteban,silvia.estebankother@cencosud.cl,Yes,15 Nov 2017,Never logged in,Never logged in,29 Nov 2017,No,Yes,No
+jira-software-users,addon_jira-sketch-integration,Sketch,jira-sketch-integration@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,addon_jira-slack-integration,Slack,jira-slack-integration@connect.atlassian.com,Yes,29 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,Not active in the last 180 days,Yes,Yes,No
+jira-software-users,slehyder,Slehyder Martinez,slehyder@eudaimonia.com.ar,Yes,6 Mar 2018,Never logged in,Never logged in,20 Jun 2018,No,Yes,No
+jira-software-users,support,support@fizzmod.com,support@fizzmod.com,Yes,9 Mar 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,tomy_murati,Tommy MURATI,tomy_murati@whirlpool.com,Yes,27 Feb 2018,Never logged in,Never logged in,17 May 2018,No,Yes,No
+jira-software-users,addon_jira-trello-integration,Trello,jira-trello-integration@connect.atlassian.com,Yes,30 Oct 2017,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+jira-software-users,valeria.caglieri,Valeria Caglieri,valeria.caglieri@rosen.cl,No,20 Jun 2017,Never logged in,Never logged in,13 Jun 2018,No,No,No
+jira-software-users,veronica.cordova,Veronica Cordova,veronica.cordova@rosen.cl,Yes,23 May 2018,Never logged in,Never logged in,21 Jun 2018,Yes,Yes,No
+jira-software-users,victor.paz,Victor Paz Friaz,victor.paz@fizzmod.com,Yes,19 Jun 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+jira-software-users,William.Barbosa,William.Barbosa@cencosud.com.co,William.Barbosa@cencosud.com.co,Yes,8 Aug 2017,Never logged in,Never logged in,21 Dec 2017,No,Yes,No
+jira-software-users,zenia.argumedo,Zenia Argumedo,zenia.argumedo@cencosud.com.co,Yes,5 Sep 2017,Never logged in,Never logged in,29 May 2018,Yes,Yes,No
+jumbocl-users,anavarrolazo,Adolfo Navarro,anavarrolazo@gmail.com,Yes,17 May 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jumbocl-users,carlos.vilchesmandiola,Carlos Vilches,carlos.vilchesmandiola@cencosud.cl,Yes,13 Jun 2017,Never logged in,Never logged in,18 Jun 2018,No,Yes,No
+jumbocl-users,Carolina.landeta,Carolina Landeta,carolina.landeta@cencosud.cl,Yes,31 Jul 2017,Never logged in,Never logged in,27 Feb 2018,No,Yes,No
+jumbocl-users,cesar.tapia,Cesar Tapia,cesar.tapia@cencosud.cl,Yes,17 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,10 Jan 2018,No,Yes,No
+jumbocl-users,daniela.jorquerabrito,Daniela Jorquera Brito,daniela.jorquerabrito@cencosud.cl,Yes,12 Sep 2017,Never logged in,Never logged in,18 Jun 2018,No,Yes,No
+jumbocl-users,danilo.delgadoredlich,Danilo Delgado,danilo.delgadoredlich@externos-cl.cencosud.com,Yes,5 Apr 2018,Never logged in,Never logged in,12 Jun 2018,No,Yes,No
+jumbocl-users,erwin.conchalorca@cencosud.cl,Erwin Concha,erwin.conchalorca@cencosud.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,31 May 2018,No,Yes,No
+jumbocl-users,fabio.schimidt,Fabio Schimidt,fabio.schimidt@vtex.com,Yes,31 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,13 Jun 2018,No,Yes,No
+jumbocl-users,felipe.gallardoespinosa,Felipe Gallardo E,felipe.gallardoespinosa@cencosud.cl,Yes,16 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jumbocl-users,fernando.ceamontenegro,Fernando Cea,fernando.ceamontenegro@cencosud.cl,Yes,7 Jul 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+jumbocl-users,fernando.menares@externos-cl.cencosud.com,fernando.menares@externos-cl.cencosud.com,fernando.menares@externos-cl.cencosud.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,1 Jun 2018,No,Yes,No
+jumbocl-users,francisco.sinning,Francisco Sinning,francisco.sinning@cencosud.cl,Yes,17 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,21 Dec 2017,No,Yes,No
+jumbocl-users,hans.hanckes,Hans Hanckes,hans.hanckes@cencosud.cl,Yes,29 May 2018,Never logged in,Never logged in,30 May 2018,No,Yes,No
+jumbocl-users,ismael.colorado,Ismael Colorado,ismael.colorado@cencosud.cl,Yes,17 May 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+jumbocl-users,jorge.catalan,jorge.catalan@cencosud.cl,jorge.catalan@cencosud.cl,Yes,25 Sep 2017,Never logged in,Never logged in,31 Jan 2018,Yes,Yes,No
+jumbocl-users,joseluiz.rodriguesdesouza,José Luiz Rodrigues,joseluiz.rodriguesdesouza@cencosud.cl,Yes,4 Apr 2018,Never logged in,Never logged in,10 Apr 2018,No,Yes,No
+jumbocl-users,julian.cecchi,julian.cecchi,julian.cecchi@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Mar 2018,No,Yes,No
+jumbocl-users,juliesozamcpherson@gmail.com,julie mcpherson,juliesozamcpherson@gmail.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,No,Yes,No
+jumbocl-users,julio.pizarro@cencosud.cl,Julio Pizarro,julio.pizarro@cencosud.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,No,Yes,No
+jumbocl-users,leonardo.alegriasolar@externos-cl.cencosud.com,Leonardo Alegría Solar,leonardo.alegriasolar@externos-cl.cencosud.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+jumbocl-users,manuel.pereirafernandez,manuel.pereirafernandez@cencosud.cl,manuel.pereirafernandez@cencosud.cl,Yes,25 Oct 2017,Never logged in,Never logged in,25 Dec 2017,No,Yes,No
+jumbocl-users,pablo.pineida@cencosud.cl,Pablo Pineida,pablo.pineida@cencosud.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jumbocl-users,pamela.bardin@cencosud.cl,Pamela Bardin,pamela.bardin@cencosud.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,4 Jun 2018,No,Yes,No
+jumbocl-users,Pamela.CorderoAvaria@jumbo.cl,Pamela Cordero Avaria,pamela.corderoavaria@jumbo.cl,No,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Sep 2017,No,No,No
+jumbocl-users,pamela.ormeno,Pamela Ormeño,pamela.ormeno@externos-cl.cencosud.com,Yes,23 Jul 2017,Never logged in,Never logged in,27 Apr 2018,No,Yes,No
+jumbocl-users,ricardo.gaeteacuna@cencosud.cl,ricardo.gaeteacuna@cencosud.cl,ricardo.gaeteacuna@cencosud.cl,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,16 May 2018,No,Yes,No
+jumbocl-users,rodrigo.pulgararacena,Rodrigo Pulgar,rodrigo.pulgararacena@cencosud.cl,Yes,21 Apr 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+jumbocl-users,sergio.sanjuanbustamante,Sergio San Juan,sergio.sanjuanbustamante@cencosud.cl,Yes,27 Mar 2018,Never logged in,Never logged in,10 May 2018,Yes,Yes,No
+jumbocl-users,Tamara.fuentealba@externos-cl.cencosud.com,Tamara Fuentealba Torres,tamara.fuentealba@externos-cl.cencosud.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,No,Yes,No
+jumbocl-users,thiago.alipio,Thiago Alipio,thiago.alipio@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jumboCO-users,fabio.schimidt,Fabio Schimidt,fabio.schimidt@vtex.com,Yes,31 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,13 Jun 2018,No,Yes,No
+jumboCO-users,griselda.mariani,Griselda Mariani,griselda.mariani@cencosud.cl,Yes,23 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+jumboCO-users,julian.cecchi,julian.cecchi,julian.cecchi@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Mar 2018,No,Yes,No
+maxihogar-users,emmanuel.trejo,Emmanuel Trejo,emmanuel.trejo@maxihogar.com.ar,Yes,6 Jul 2017,Never logged in,Never logged in,22 Mar 2018,No,Yes,No
+readonly-jumbo-cl,carolina.vargasbello,carolina.vargasbello@cencosud.cl,carolina.vargasbello@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,daniela.leon,daniela.leon@jumbo.cl,daniela.leon@jumbo.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,ernesto.fajardo,ernesto.fajardo@cencosud.cl,ernesto.fajardo@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,fernando.reygaete,fernando.reygaete@cencosud.cl,fernando.reygaete@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,francisca.munoz,Francisca Munoz,francisca.munoz@cencosud.cl,Yes,22 Dec 2017,Never logged in,Never logged in,15 Jun 2018,No,Yes,No
+readonly-jumbo-cl,francisco.labarcafernandez,francisco.labarcafernandez@cencosud.cl,francisco.labarcafernandez@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,francisco.leivadiaz,francisco.leivadiaz@cencosud.cl,francisco.leivadiaz@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,franco.tagini,Franco Tagini Cox,franco.tagini@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,javiera.bustosgil,javiera.bustosgil@cencosud.cl,javiera.bustosgil@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,javiera.novoa,javiera.novoa@cencosud.cl,javiera.novoa@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,lorena.valenzuela,lorena.valenzuela@cencosud.cl,lorena.valenzuela@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+readonly-jumbo-cl,pilar.ariztia,pilar.ariztia@cencosud.cl,pilar.ariztia@cencosud.cl,Yes,15 Jun 2018,Never logged in,Never logged in,Never logged in,Yes,Yes,No
+rosen-users,anavarrolazo,Adolfo Navarro,anavarrolazo@gmail.com,Yes,17 May 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+rosen-users,juan,Juan Hapes,juan@fizzmod.com,Yes,Before 11 Feb 2017,21 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+rosen-users,thiago.alipio,Thiago Alipio,thiago.alipio@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+service-desk-jumbo-cl,danilo.delgadoredlich,Danilo Delgado,danilo.delgadoredlich@externos-cl.cencosud.com,Yes,5 Apr 2018,Never logged in,Never logged in,12 Jun 2018,No,Yes,No
+service-desk-jumbo-cl,sergio.sanjuanbustamante,Sergio San Juan,sergio.sanjuanbustamante@cencosud.cl,Yes,27 Mar 2018,Never logged in,Never logged in,10 May 2018,Yes,Yes,No
+service-desk-rosen,adrian,Adrián Locurcio,adrian@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,28 May 2018,Yes,Yes,No
+service-desk-rosen,alejandro,Alejandro Gonzalez,alejandro@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+service-desk-rosen,alejandro.lariccia,Alejandro Lariccia,alejandro.lariccia@fizzmod.com,Yes,6 Jul 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+service-desk-rosen,ezequiel,Ezequiel Martínez,ezequiel@fizzmod.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+service-desk-rosen,gabriel,Gabriel Barbera,gabriel@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,22 Jun 2018,No,Yes,No
+service-desk-rosen,gonzalo,Gonzalo Isola,gonzalo@fizzmod.com,Yes,3 Aug 2017,Never logged in,Never logged in,21 Jun 2018,No,Yes,No
+site-admins,ariel,Ariel,ariel@fizzmod.com,Yes,5 Mar 2018,21 May 2018,Never logged in,22 Jun 2018,Yes,Yes,No
+site-admins,camilo.galleguillos,Camilo Galleguillos®,camilo@fizzmod.com,Yes,21 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+site-admins,carlos.ruiz,Carlos Ruiz Lucchese,carlos.ruiz@fizzmod.com,Yes,13 Jul 2017,21 Jun 2018,Never logged in,22 Jun 2018,Yes,Yes,Yes
+site-admins,carolina.padilla,Carolina Padilla,carolina.padilla@fizzmod.com,Yes,17 Apr 2017,27 Feb 2018,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+site-admins,diego,Diego Senra,diego@fizzmod.com,Yes,7 Apr 2016,26 Feb 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+site-admins,admin,Francisco Mato,francisco@fizzmod.com,Yes,21 Mar 2016,4 May 2018,Not active in the last 180 days,7 Jun 2018,Yes,Yes,Yes
+site-admins,joaquin,Joaquín Ormaechea,joaquin@fizzmod.com,Yes,21 Mar 2016,18 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,Yes
+site-admins,joshua,Joshua Sebastian Kim,joshua@fizzmod.com,Yes,4 Apr 2016,8 Jun 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+site-admins,lisandro,Lisandro Aubert,lisandro@fizzmod.com,Yes,21 Mar 2016,15 Jun 2018,Not active in the last 180 days,21 Jun 2018,Yes,Yes,Yes
+sportline-external,franco,Franco Serenellini,franco@e-cruce.com,Yes,24 Nov 2017,Never logged in,Never logged in,24 Nov 2017,No,Yes,No
+wong-users,adriana.rodriguez,Adriana Rodríguez,adriana.rodriguez@vtex.com.br,Yes,19 Apr 2017,Not active in the last 180 days,Not active in the last 180 days,21 Mar 2018,No,Yes,No
+wong-users,alan.amaya,alan.amaya,alan.amaya@cencosud.com.pe,Yes,23 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,5 Jun 2018,No,Yes,No
+wong-users,alexander.perez,Alex Pérez Ortuño,alexander@fizzmod.com,No,5 May 2017,Not active in the last 180 days,Not active in the last 180 days,30 Nov 2017,No,No,No
+wong-users,carlos.benites,Carlos Benites,carlos.benites@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,12 Jun 2018,No,Yes,No
+wong-users,cesar.tapia,Cesar Tapia,cesar.tapia@cencosud.cl,Yes,17 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,10 Jan 2018,No,Yes,No
+wong-users,fabio.schimidt,Fabio Schimidt,fabio.schimidt@vtex.com,Yes,31 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,13 Jun 2018,No,Yes,No
+wong-users,francisco.sinning,Francisco Sinning,francisco.sinning@cencosud.cl,Yes,17 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,21 Dec 2017,No,Yes,No
+wong-users,griselda.mariani,Griselda Mariani,griselda.mariani@cencosud.cl,Yes,23 Mar 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+wong-users,guillermo.carbonell,guillermo.carbonell,guillermo.carbonell@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Jun 2018,No,Yes,No
+wong-users,ismael.colorado,Ismael Colorado,ismael.colorado@cencosud.cl,Yes,17 May 2018,Never logged in,Never logged in,22 Jun 2018,Yes,Yes,No
+wong-users,juan.elfers,Juan Martín Elfers,juan.elfers@fizzmod.com,Yes,10 May 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+wong-users,julian.cecchi,julian.cecchi,julian.cecchi@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,20 Mar 2018,No,Yes,No
+wong-users,leonardo.alegriasolar@externos-cl.cencosud.com,Leonardo Alegría Solar,leonardo.alegriasolar@externos-cl.cencosud.com,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,21 Jun 2018,Yes,Yes,No
+wong-users,manuel,Manuel Vilche,manuel@fizzmod.com,Yes,Before 11 Feb 2017,22 May 2018,Not active in the last 180 days,22 Jun 2018,Yes,Yes,No
+wong-users,marcos,Marcos Casagrande,marcos@fizzmod.com,Yes,21 Mar 2016,11 Jun 2018,Not active in the last 180 days,14 Jun 2018,Yes,Yes,No
+wong-users,maria.roman,Maria Fernanda Román,maria.roman@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
+wong-users,nestor.guio,Néstor Guío,nestor.guio@cencosud.com.pe,Yes,28 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,7 Jun 2018,No,Yes,No
+wong-users,paula.runciman,paula.runciman,paula.runciman@cencosud.com.pe,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,18 Jun 2018,No,Yes,No
+wong-users,sebastian.nadales,Sebastián Nadales,sebastian.nadales@cencosud.com,Yes,24 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,6 Jun 2018,No,Yes,No
+wong-users,thiago.alipio,Thiago Alipio,thiago.alipio@vtex.com.br,Yes,Before 11 Feb 2017,Not active in the last 180 days,Not active in the last 180 days,22 Jun 2018,No,Yes,No
