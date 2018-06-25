@@ -1,0 +1,13 @@
+[
+    "com.invisionapp.integration.jira@connect.atlassian.com",
+    "com.atlassian.jira.chat@connect.atlassian.com",
+    "jira-workplace-integration@connect.atlassian.com",
+    "com.atlassian.servicedesk.embedded@connect.atlassian.com",
+    "com.invisionapp.integration.jira@connect.atlassian.com",
+    "com.atlassian.jira.chat@connect.atlassian.com",
+    "jira-workplace-integration@connect.atlassian.com",
+    "com.atlassian.servicedesk.embedded@connect.atlassian.com",
+    "cello@connect.atlassian.com",
+    "jira-sketch-integration@connect.atlassian.com",
+    "jira-trello-integration@connect.atlassian.com"
+]

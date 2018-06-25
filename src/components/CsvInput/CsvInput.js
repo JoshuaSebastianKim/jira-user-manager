@@ -10,12 +10,13 @@ class CsvInput extends Component {
 	}
 
 	handleChange(e) {
+		const { onChange } = this.props;
 		const reader = new FileReader();
 		const [file] = e.target.files;
 
 		reader.onload = () => {
 			csvParse(reader.result, { columns: true }, (err, output) => {
-				this.props.onChange(output);
+				onChange(output);
 			});
 		};
 
@@ -35,11 +36,11 @@ class CsvInput extends Component {
 }
 
 CsvInput.propTypes = {
-	onChange: PropTypes.func
+	onChange: PropTypes.func,
 };
 
 CsvInput.defaultProps = {
-	onChange: () => undefined
+	onChange: () => undefined,
 };
 
 export default CsvInput;

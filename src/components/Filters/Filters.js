@@ -11,7 +11,7 @@ class Filters extends Component {
 
 	componentDidMount() {
 		this.props.onNeverLoggedChange('true');
-		this.props.onSinceChange('week');
+		this.props.onSinceChange('month');
 	}
 
 	handleNeverLoggedChange(e) {
@@ -25,9 +25,9 @@ class Filters extends Component {
 
 	render() {
 		return (
-			<div className="container-fluid">
+			<div>
 				<div>
-					<label>Desabilitar usuarios nunca logeados?</label>
+					<label>Mostrar usuarios nunca logeados?</label>
 					<select onChange={this.handleNeverLoggedChange}>
 						<option value="true">Si</option>
 						<option value="">No</option>
@@ -37,8 +37,8 @@ class Filters extends Component {
 				<div>
 					<label>Desabilitar usuarios sin actividad desde:</label>
 					<select onChange={this.handleSinceChange}>
-						<option value="week">Hace una semana</option>
 						<option value="month">Hace un mes</option>
+						<option value="week">Hace una semana</option>
 					</select>
 				</div>
 			</div>

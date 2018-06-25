@@ -12,8 +12,8 @@ class JiraUser {
 		return axios.get(url, {
 			auth: this.auth,
 			params: {
-				username
-			}
+				username,
+			},
 		});
 	}
 }

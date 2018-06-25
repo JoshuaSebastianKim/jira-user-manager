@@ -1,7 +1,10 @@
 require('dotenv').config();
+const path = require('path');
 const webpack = require('webpack');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
+	mode: 'development',
 	entry: {
 		index: [
 			'./src/client.js'
@@ -18,14 +21,18 @@ module.exports = {
 				use: {
 					loader: 'babel-loader'
 				}
-			}
+			},
+			{ test: /\.pug$/, loader: 'pug-loader' }
 		]
 	},
 	plugins: [
-		new webpack.DefinePlugin({
-			USERNAME: JSON.stringify(process.env.USER_EMAIL),
-			APITOKEN: JSON.stringify(process.env.API_TOKEN)
+		new HtmlWebpackPlugin({
+			template: './src/views/index.pug'
 		})
-	]
+	],
+	devServer: {
+		contentBase: path.join(__dirname, 'dist'),
+		compress: true
+	}
 };
 
