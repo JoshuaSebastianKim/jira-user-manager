@@ -29,7 +29,7 @@ class Home extends Component {
 			'com.atlassian.servicedesk.embedded@connect.atlassian.com',
 			'cello@connect.atlassian.com',
 			'jira-sketch-integration@connect.atlassian.com',
-			'jira-trello-integration@connect.atlassian.com'
+			'jira-trello-integration@connect.atlassian.com',
 		];
 
 		this.handleCsvInputChange = this.handleCsvInputChange.bind(this);

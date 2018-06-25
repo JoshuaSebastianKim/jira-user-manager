@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import moment from 'moment';
 
 class UserItem extends Component {
 	componentDidMount() {
@@ -31,6 +32,14 @@ class UserItem extends Component {
 				{Object.entries(user).map(([key, value]) => {
 					if (key === 'group_name') {
 						return <td dangerouslySetInnerHTML={{ __html: value.join('<br />') }} />;
+					}
+
+					if (key === 'Last active in Jira' && value !== 'Never logged in') {
+						return (
+							<td>
+								{value} - {moment(value, 'DD-MMM-YYYY').fromNow()}
+							</td>
+						)
 					}
 
 					return (
