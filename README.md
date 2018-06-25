@@ -4,6 +4,17 @@
 
 1) Abrir la terminal en la carpeta de la aplicacion y correr el comando `npm install`
 
+## Configuracion
+
+1) Crear el archivo a nivel root del proyecto llamado `.env`.
+2) Agregar las siguientes variables
+
+| Variable | Descripcion |
+| --- | --- |
+| HOST | URL del Jira, ej.: `https://fizzmod.atlassian.net` |
+| USER_EMAIL | Email del usuario administrador |
+| API_TOKEN | Token genedaro desde Jira |
+
 ## Iniciación
 
 1) Dentro de la terminal correr el comando `npm run start:dev`

@@ -5,6 +5,7 @@ const cors = require('cors');
 const usersGroupsController = require('./controllers/usersGroups');
 const Jira = require('./classes/Jira');
 
+const PORT = 8081;
 const app = express();
 
 app.use(bodyParser.json());
@@ -27,6 +28,6 @@ app.use((req, res, next) => {
 
 app.use('/users/groups', usersGroupsController);
 
-app.listen(process.env.API_PORT, () => {
-	console.log(`API Server running on port ${process.env.API_PORT}`);
+app.listen(PORT, () => {
+	console.log(`API Server running on port ${PORT}`);
 });
